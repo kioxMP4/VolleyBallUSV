@@ -1,0 +1,81 @@
+body {
+    font-family: 'arial', sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-size: 16px; 
+    overflow-x: hidden;
+}
+
+h1 {
+    font-size: 57px;
+    margin-top: 92px;
+    margin-left: -1000px;
+    color: white;
+}
+
+.container2 {
+    font-family: 'WorkSans-VariableFont_wght', sans-serif;
+    font-size: 25px;
+    color: black;
+    margin-left: -1100px;
+    margin-top: 20px;
+}
+
+.degradé1 {
+    background: linear-gradient(to right,#000000, #000000, #000000,#121142,#1e1d79,#2d2ca8,#3533cd );
+    height: 253px;
+    width: 100%;
+    margin: 20px 0;
+    margin-top: -196px;
+}
+
+.logo {
+    margin-top: -300px;
+    margin-left: 2750px;
+    height: -50%;
+}
+
+.schémas {
+    margin-top: 210px;
+    margin-left: -1085px;
+    height: 5px;
+    width: 200%;
+}
+
+.container3 {
+    font-family: 'WorkSans-VariableFont_wght', sans-serif;
+    font-size: 30px;
+    color: black;
+    margin-left: -2990px;
+    margin-top: 600px;
+}
+
+.container4 {
+    font-family: 'WorkSans-VariableFont_wght', sans-serif;
+    font-size: 30px;
+    color: black;
+    margin-left: -250px;
+    margin-top: -7px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 70%;
+    text-align: left;
+}
+
+.decoP2 {
+    margin-top: -400px;
+    margin-left: 1410px;
+    height: 5px;
+    width: 100%;
+}
+
+.degradéP2 {
+    margin-top: 440px;
+    margin-left: -45px;
+}
+
+html {
+    overflow-x: hidden; 
+}
